@@ -1,0 +1,13 @@
+#result {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: rgb(29, 29, 32);
+    height: 150px;
+}
+
+h1 {
+    color: white;
+    margin-right: 10px;
+    font-size: 4.5em;
+}

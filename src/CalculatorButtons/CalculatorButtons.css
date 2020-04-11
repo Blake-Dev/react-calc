@@ -1,0 +1,25 @@
+.button-row {
+    display: flex;
+}
+
+button {
+    height: 100px;
+    width: 25%;
+    font-size: 2em;
+    background-color: rgb(70, 70, 70);
+    color: #ddd;
+}
+
+#zero {
+    width: 50%;
+}
+
+.operation {
+    background-color: rgb(21, 21, 68);
+    color: #ddd;
+}
+
+.special {
+    background-color: rgb(200, 200, 200);
+    color: #444;
+}
